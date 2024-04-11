@@ -1,0 +1,31 @@
+# Table of contents
+
+* [Packages for Umbraco Commerce](README.md)
+
+## Commerce Products
+
+* [Umbraco Commerce](https://docs.umbraco.com/umbraco-commerce/)
+* [Commerce Payment Providers](https://docs.umbraco.com/umbraco-commerce-payment-providers)
+* [Commerce Shipping Providers](https://docs.umbraco.com/umbraco-commerce-shipping-providers)
+
+## Checkout
+
+* [Overview](checkout/README.md)
+* [Installation](checkout/installation.md)
+* [Configure Umbraco](checkout/configuring-umbraco.md)
+* [Checkout Screenshots](checkout/screenshots.md)
+* [Release Notes](checkout/release-notes.md)
+
+## Deploy
+
+* [Overview](deploy/README.md)
+* [Installation](deploy/installation.md)
+* [Deploying Changes](deploy/deploying-changes.md)
+* [Release Notes](deploy/release-notes.md)
+
+## Product Feeds
+
+* [Overview](product-feeds/README.md)
+* [Installation](product-feeds/installation.md)
+* [Extending the plugin](product-feeds/extending.md)
+* [Release Notes](https://github.com/umbraco/Umbraco.Commerce.ProductFeeds/releases)
